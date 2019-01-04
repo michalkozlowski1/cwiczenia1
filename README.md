@@ -1,2 +1,4 @@
 # cwiczenia1
-small repository
+Small repository.
+Michał Kozłowski
+
